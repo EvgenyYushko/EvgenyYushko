@@ -19,7 +19,7 @@
 Данные по коммитам за сутки:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EvgenyYushko&theme=solarized_dark)
 
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **EvgenyYushko/EvgenyYushko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
