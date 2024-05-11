@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://evgenyyushko.github.io/)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+my+nameis+Evgeny+and+I+work+as+a+programmer)](https://evgenyyushko.github.io/)
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EvgenyYushko&repo=MyBankAppWinForms)](https://github.com/anuraghazra/github-readme-stats)-->
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvgenyYushko&theme=solarized_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EvgenyYushko&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EvgenyYushko&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EvgenyYushko&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EvgenyYushko&theme=solarized_dark)
 
