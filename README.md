@@ -2,7 +2,7 @@
 My name is Evgeny and I'm developer
 - 🛠 5 years of backend-development
 - 🔭 Currently working on [System Technologies](https://st.by) as a developer
-- 📫 How to reach me: https://evgenyyushko.github.io/contacts/
+- 📫 How to reach me: [evgenyyushko.contacts](https://evgenyyushko.github.io/contacts)
 <!-- - 💬 Ask me about .NET, YouTube, DevRel & Community Building -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenyYushko&hide=html&layout=compact)]([https://github.com/itbeard](https://evgenyyushko.github.io/))
 <br/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Click+me+to+go+my+CV)](https://evgenyyushko.github.io/)
