@@ -4,9 +4,9 @@ My name is Evgeny and I'm developer
 - 🔭 Currently working on [System Technologies](https://st.by) as a developer
 - 📫 How to reach me: [evgenyyushko.contacts](https://evgenyyushko.github.io/contacts)
 <!-- - 💬 Ask me about .NET, YouTube, DevRel & Community Building -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenyYushko&hide=html&layout=compact)]([https://github.com/itbeard](https://evgenyyushko.github.io/))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenyYushko&hide=html&layout=compact)](https://evgenyyushko.github.io/)
 <br/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Click+me+to+go+my+CV)](https://evgenyyushko.github.io/)
-<br/><img align="left" src="https://komarev.com/ghpvc/?username=EvgenyYushko&label=Profile%20Views%20&color=AC1F21&style=flat-square" alt="itbeard" />
+<br/><img align="left" src="https://komarev.com/ghpvc/?username=EvgenyYushko&label=Profile%20Views%20&color=AC1F21&style=flat-square" alt="evgenyyushko" />
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EvgenyYushko&repo=MyBankAppWinForms)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
 ![Jokes Card](https://readme-jokes.vercel.app/api)
