@@ -1,27 +1,13 @@
 ### Hi there 👋
 My name is Evgeny and I'm developer
-- 🛠 11 years of backend-development
+- 🛠 5 years of backend-development
 - 🔭 Currently working on [System Technologies](https://st.by) as a developer
 - 📫 How to reach me: https://evgenyyushko.github.io/contacts/
 <!-- - 💬 Ask me about .NET, YouTube, DevRel & Community Building -->
-
-<table style="border-collapse: collapse;">
-  <tr>
-    <td style="border: none;">
-      <a href="https://evgenyyushko.github.io/" style="text-decoration: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenyYushko&hide=html&layout=compact" alt="Top Langs" style="border: none;" />
-      </a>
-    </td>
-    <td style="border: none;">
-      <a href="https://evgenyyushko.github.io/" style="text-decoration: none;">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Click+to+go+my+CV" alt="Typing SVG" style="border: none;" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenyYushko&hide=html&layout=compact)]([https://github.com/itbeard](https://evgenyyushko.github.io/))
+<br/>
 <img align="left" src="https://komarev.com/ghpvc/?username=EvgenyYushko&label=Profile%20Views%20&color=AC1F21&style=flat-square" alt="itbeard" />
+<br/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Click+me+to+go+my+CV)](https://evgenyyushko.github.io/)
 
 
 
