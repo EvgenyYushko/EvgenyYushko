@@ -1,5 +1,4 @@
-### Hi there 👋
-My name is Evgeny and I'm developer
+### Hi there 👋, my name is [Evgeny](https://evgenyyushko.github.io) and I'm developer
 - 🛠 5 years of backend-development
 - 🔭 Currently working on [System Technologies](https://st.by) as a developer
 - 📫 How to reach me: [evgenyyushko.contacts](https://evgenyyushko.github.io/contacts)
